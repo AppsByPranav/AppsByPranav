@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AppsByPranav
 - 👀 I’m interested in developing solutions
-- 🌱 I’m currently learning Java, Noe.js, React.js
+- 🌱 I’m currently learning Java, Node.js, REACT.js
 - 💞️ I’m looking to collaborate on any projects that can help me grow as a developer
 
 <!---
